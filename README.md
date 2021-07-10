@@ -15,6 +15,8 @@ It requires an account to be most effective, but offers repeating memory cards t
 
 # Setting up Qiskit
 
+This setup is for `WSL2` under Windows. As I am running `ubuntu` there, this should be the same for most linux distros, but YMMV.
+
 To be able to experiment and work with Quantum Algorithms, we need an adequate environment. This is a simple guide to set everything up:
 
 - To keep our workplace clean, we use `anaconda` for virtual environments
