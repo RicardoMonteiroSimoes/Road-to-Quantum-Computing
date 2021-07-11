@@ -8,10 +8,10 @@ It requires an account to be most effective, but offers repeating memory cards t
 
 > Learning this material is challenging. Quantum computing and quantum mechanics are famously “hard” subjects, often presented as mysterious and forbidding. If this were a conventional essay, chances are that you’d rapidly forget the material. But the essay is also an experiment in the essay form. As I’ll explain in detail below the essay incorporates new user interface ideas to help you remember what you read. That may sound surprising, but uses a well-validated idea from cognitive science known as spaced-repetition testing. More detail on how it works below. The upshot is that anyone who is curious and determined can understand quantum computing deeply and for the long term.
 
-### Summary of most important takeaways
+## List of Quantum gates
 
-
-#Todo
+![Quantum Gates](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Quantum_Logic_Gates.png/1024px-Quantum_Logic_Gates.png)
+_Source: https://en.wikipedia.org/wiki/Quantum_logic_gate_
 
 # Setting up Qiskit
 
